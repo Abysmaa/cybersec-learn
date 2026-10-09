@@ -4,11 +4,11 @@
 **Status:** Berjalan
 
 ## Yang sudah dikerjakan
-- [ ] VirtualBox terpasang
-- [ ] Kali Linux (VM siap pakai) diimpor
-- [ ] Ubuntu Server (VM target) dipasang
-- [ ] Jaringan: NAT + Host-only
-- [ ] Snapshot `clean-install`
+- [x] VirtualBox terpasang
+- [x] Kali Linux (VM siap pakai) diimpor
+- [x] Ubuntu Server (VM target) dipasang
+- [x] Jaringan: NAT + Host-only
+- [x] Snapshot `clean-install`
 
 ## Spesifikasi VM
 | VM | RAM | CPU | Jaringan |
